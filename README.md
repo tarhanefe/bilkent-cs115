@@ -44,3 +44,44 @@ Lab 05 covers tuples, lists, and dictionaries. Students estimate the value of â€
 
 - [Lab 5 Guideline](https://github.com/tarhanefe/bilkent-cs115-labs/blob/3a130b33cfc0fc15cee8f8fe6e489f8ddef684c3/Lablar/Lab%205/Lab05.pdf)
 - [Lab 5 Code](https://github.com/tarhanefe/bilkent-cs115-labs/blob/3a130b33cfc0fc15cee8f8fe6e489f8ddef684c3/Lablar/Lab%205/Lab05_Tarhan_Efe.zip)
+
+
+## Lab 6
+
+-	Lab 06  focuses on two-dimensional lists and numpy arrays. Students write functions to manipulate 2D lists and use numpy arrays to process data from files without using loops.
+
+- [Lab 6 Guideline](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%206/Lab06%20(2).ipynb)
+- [Lab 6 Code](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%206/05_Lab06_Tarhan_Efe.zip)
+
+
+## Lab 7
+
+Lab 07 focuses on classes in Python. Students create a Stock class with various attributes and methods, including initializing, getting, and setting values, as well as representing the stock information.
+
+- [Lab 7 Guideline](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%207/Lab07%20(2).pdf)
+- [Lab 7 Code](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%207/Lab07_Efe_Tarhan.zip)
+
+
+## Lab 8
+
+Lab 08 covers inheritance in Python. Students create a Patient class and an Outpatient subclass, implementing attributes, methods, and functionality for calculating and displaying hospital fees.
+
+- [Lab 8 Guideline](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%208/Lab08%20(2).pdf)
+- [Lab 8 Code](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%208/Lab08_Tarhan_Efe.%20(1).zip)
+
+
+## Lab 9
+
+Lab 09 of CS 115 involves advanced Python concepts, integrating multiple topics learned previously and applying them to complex problem-solving tasks.
+
+- Lab 9 Guideline
+- [Lab 9 Code](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%209/Lab09_Tarhan_Efe.zip)
+
+
+## Lab 10
+
+Lab 10 focuses on data visualization using matplotlib. Students load data from text files, perform data manipulation using numpy, and create plots to visualize the data.
+
+- [Lab 10 Guideline](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%2010/Lab10%20(2).pdf)
+- [Lab 10 Code](https://github.com/tarhanefe/bilkent-cs115-labs/blob/b9ab1ee21a216458c1c0493e65c0bd316f04b686/Lablar/Lab%2010/Lab10_Tarhan_Efe%20(1).zip)
+
