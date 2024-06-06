@@ -1,4 +1,7 @@
-# bilkent-cs115-labs
- Bilkent University CS115 Course Labs 
+<h1 align="center">bilkent-cs115-labs</h1>
 
-![ing-amblem](https://github.com/tarhanefe/bilkent-cs115-labs/assets/73281981/c2b3e993-0a1c-4a88-8c99-b82ccf09a4c8)
+<p align="center">Bilkent University CS115 Course Labs</p>
+
+<p align="center">
+  <img src="[path/to/your/logo.png](https://github.com/tarhanefe/bilkent-cs115-labs/assets/73281981/c2b3e993-0a1c-4a88-8c99-b82ccf09a4c8)" alt="Bilkent University Logo" />
+</p>
