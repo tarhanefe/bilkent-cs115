@@ -1,6 +1,6 @@
 <h1 align="center">Bilkent University CS115 - Introduction to Programming with Python Labs</h1>
 
-<p align="center">Bilkent University CS115 Course Labs</p>
+<p align="center">Bilkent University CS115 Course Labs of 2020-2021 Fall Semestr</p>
 
 <p align="center">
   <img src="https://github.com/tarhanefe/bilkent-cs115-labs/assets/73281981/353e59fa-4cf5-4be5-b62f-afa383f3fdcd" alt="Bilkent University Logo" width = "300" />
