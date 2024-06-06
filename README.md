@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [Lab 1](#lab-1)
-  - [Lab 1 Code]([./path/to/lab1/report.md](https://github.com/tarhanefe/bilkent-cs115-labs/blob/60495737d60f6bc55ee6d6e8a5004096ce48fd10/Lablar/Lab%201/Efe%20Tarhan-CS115%20Lab%201.zip))
+  - [Lab 1 Code](https://github.com/tarhanefe/bilkent-cs115-labs/blob/60495737d60f6bc55ee6d6e8a5004096ce48fd10/Lablar/Lab%201/Efe%20Tarhan-CS115%20Lab%201.zip)
   - [Lab 1 Report](./path/to/lab1/code)
 - [Lab 2](#lab-2)
   - [Lab 2 Report](./path/to/lab2/report.md)
